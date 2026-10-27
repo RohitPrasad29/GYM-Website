@@ -2,6 +2,8 @@
 
 **A modern digital platform for smarter gym management.**
 
+🌐 **Live Website:** [Visit Garuda Fitness Zone](https://garudafitnesszone.onrender.com/)
+
 Garuda Fitness Zone is a web-based gym management platform designed to simplify daily operations, improve membership administration, and provide members with a convenient way to manage their fitness journey.
 
 The platform brings membership records, fee tracking, attendance, fitness progress, and administrative controls together in one place. Its responsive interface is designed to work across desktop computers, tablets, and mobile devices.
