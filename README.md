@@ -1,4 +1,4 @@
-# Garuda Fitness Zone | Gym Management System
+# Garuda Fitness Zone | Gym Management System | Mobile Focused
 
 **A modern digital platform for smarter gym management.**
 
